@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+a{
+    color: rgb(255, 255, 255);
+    outline: color(rgb(0, 0, 0));
+    font-family: sans-serif;
+}
+h1{
+    color:  rgba(64, 0, 112, 0.809);
+    font-family:sans-serif;
+    font-weight: bold;
+    font-weight: bolder;
+}
+p{
+    color: #9f9f9f;
+}
+h3{
+    color: #9f9f9f;
+}
+h2{
+    color: #9f9f9f;
+}
+#GameBN{
+    border-radius: 15px;
+    border: solid;
+    max-width: 260;
+    max-height: 370;
+    border-width: 260;
+    border-color: hsl(0, 0%, 20%);
+
+}
+#GameBN:hover{
+    border-radius: 15px;
+    border:solid;
+    max-width: 260;
+    max-height: 370;
+    border-width: 260;
+    border-color: hsl(0, 0%, 30%);
+    cursor: pointer;
+}
+#GameBN:active{
+    border-radius: 15px;
+    border: solid;
+    max-width: 260;
+    max-height: 370;
+    border-width: 260;
+    border-color: hsl(0, 0%, 50%);
+    cursor: pointer;
+}
